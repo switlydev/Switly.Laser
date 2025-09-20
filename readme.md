@@ -36,12 +36,6 @@ This core allows you to connect to the patched brawl stars client using the tcp 
 }
 ```
 
-- Download required Python libraries.
-
-```bash
-pip install -r requirements.txt
-```
-
 - Run `src/main.py` and Run the main.py command and enter the client that matches the packet structure.
 - Have Fun!
 
