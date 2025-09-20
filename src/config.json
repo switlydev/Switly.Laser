@@ -1,0 +1,12 @@
+{
+    "ServerIP": "0.0.0.0",
+    "ServerPort": 9339,
+
+
+    "ClientMajor": 27,
+    "ClientMinor": 269,
+    "ClientBuild": 1,
+
+    "ServerName": "Switly Laser",
+    "DebugMode":true
+}
